@@ -1,16 +1,14 @@
-# quizller
+# Quizller
 
-A new Flutter project.
 
-## Getting Started
+Certainly, here's a sample description for your Quiz Application:
 
-This project is a starting point for a Flutter application.
+### Quiz Application
 
-A few resources to get you started if this is your first Flutter project:
+The Quiz Application is an engaging and educational mobile app developed using Flutter and Dart. It offers a fun and interactive way for users to challenge their knowledge on a wide range of topics. Whether you're a trivia enthusiast or simply looking for an enjoyable way to learn something new, this app has something for everyone.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Key Features:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+• Multiple-Choice Questions: Test your knowledge with a variety of multiple-choice questions. Each question offers four possible answers, and you must select the correct one within the time limit.
+
+• Score Tracking: Keep track of your performance with a real-time score tracker. Watch your score increase with each correct answer and see how you compare to your previous attempts.
